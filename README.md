@@ -107,10 +107,5 @@ Computational biologist with expertise in molecular dynamics simulations, struct
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnutg14&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnutg14&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
   <em>Let's connect and talk computational biology, structural bioinformatics, or data science!</em>
 </p>
