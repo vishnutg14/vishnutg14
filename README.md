@@ -4,8 +4,6 @@
 
 # Hi, I'm Vishnu 👋
 
----
-
 I build bioinformatics and computational biology workflows, along with data analysis of a variety of data. 
 
 I completed my MSc in Biotechnology from **IIT Indore** and worked for 1 year extensively on Molecular Dynamics (MD) simulations for modelling of interaction in Spleen Tyrosine Kinase using AMBER and the associated packagaes for MD. In addition, I also learnt some parts of RNA-seq, WGS, and microbiome analysis via self-study and am ready to make things happen.
