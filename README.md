@@ -2,21 +2,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3200&pause=800&color=4F9CF5&center=true&vCenter=true&width=700&lines=Computational+Biologist;Bioinformatics+Researcher;Data+Analyst;MD+Simulations+%26+Drug+Discovery" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <strong>Vishnu Prakash T G</strong> &nbsp;|&nbsp; MSc Biotechnology, IIT Indore
-  <br/>
-  <a href="https://www.linkedin.com/in/vishnu-prakash-t-g/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+# Hi, I'm Vishnu 👋
 
 ---
 
-### About Me
+I build bioinformatics and computational biology workflows, along with data analysis of a variety of data. 
 
-Computational biologist with expertise in molecular dynamics simulations, structural bioinformatics, and drug discovery pipelines. MSc Biotechnology from IIT Indore with experience in RNA-seq analysis, machine learning, workflow automation (Snakemake), and statistical analysis of biological datasets.
+I completed my MSc in Biotechnology from **IIT Indore** and worked for 1 year extensively on Molecular Dynamics (MD) simulations for modelling of interaction in Spleen Tyrosine Kinase using AMBER and the associated packagaes for MD. In addition, I also learnt some parts of RNA-seq, WGS, and microbiome analysis via self-study and am ready to make things happen.
 
 ---
 
-### Technical Skills
+### My Technical Skills
 
 **Languages**
 
@@ -64,16 +60,6 @@ Computational biologist with expertise in molecular dynamics simulations, struct
 
 ---
 
-### Experience
-
-**Data Analyst Intern** — *Apana Time* (Remote) | Oct 2025 – Apr 2026
-
-- Developed Python and SQL validation pipelines to ensure data integrity across large-scale datasets, emphasizing reproducibility and automated quality control.
-- Built interactive dashboards and visualizations using Seaborn, Matplotlib, and Power BI to identify operational trends and support data-driven decision-making.
-- Translated complex analytical results into concise summaries and presented actionable recommendations to cross-functional stakeholders.
-
----
-
 ### Projects
 
 | Project | Description | Stack |
@@ -85,24 +71,6 @@ Computational biologist with expertise in molecular dynamics simulations, struct
 | [data-analysis-projects](https://github.com/vishnutg14/data-analysis-projects) | Portfolio of data analysis projects | Python, Jupyter |
 | [python_short_projects](https://github.com/vishnutg14/python_short_projects) | Short programs written while learning Python | Python |
 
----
-
-### Achievements
-
-- **CSIR NET JRF** — Qualified with All India Rank (AIR) 71 (2025)
-- **GATE BT** — Qualified with All India Rank (AIR) 323 (2025)
-- **IIT JAM (Biotechnology)** — Qualified with All India Rank (AIR) 78 (2024)
-- **Poster Presentation** — *"Computational Modelling of Spleen Tyrosine Kinase"* at IIT Indore (Mar 2026)
-
----
-
-### Education
-
-**MSc in Biotechnology** — Indian Institute of Technology (IIT) Indore | *CGPA 8.99* | 2024 – 2026
-
-**BSc in Botany, Zoology & Chemistry** — Vivekananda College of Arts, Science & Commerce | *CGPA 9.62* | 2021 – 2024
-
-*Relevant Coursework: Bioinformatics, Computational Biology, Statistical Methods, Structural Biology, Machine Learning, RNA-seq & NGS Analysis*
 
 ---
 
