@@ -75,5 +75,5 @@ I completed my MSc in Biotechnology from **IIT Indore** and worked for 1 year ex
 ---
 
 <p align="center">
-  <em>Let's connect and talk computational biology, structural bioinformatics, or data science!</em>
+  <em>Let's connect</em>
 </p>
