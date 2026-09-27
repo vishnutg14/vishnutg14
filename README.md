@@ -64,7 +64,7 @@ I completed my MSc in Biotechnology from **IIT Indore** and worked for 1 year ex
 |---------|-------------|-------|
 | [protein-md-simulation](https://github.com/vishnutg14/protein-md-simulation) | **Thesis:** 1000+ ns molecular dynamics simulation of Spleen Tyrosine Kinase on a GPU cluster; K-means clustering + PCA on trajectories to characterize conformational states | AMBER, Python, Bash |
 | [cadd](https://github.com/vishnutg14/cadd) | Short docking protocol for a protein — CADD pipeline | AutoDock Vina |
-| [deg-analysis](https://github.com/vishnutg14/deg-analysis) | Differential expression analysis (GSE336901) with edgeR | R, edgeR |
+| [deg-analysis](https://github.com/vishnutg14/deg-analysis) | Differential expression analysis | R, edgeR, DESeq2 |
 | [radius-of-gyration-analysis](https://github.com/vishnutg14/radius-of-gyration-analysis) | Radius of gyration visualization for GROMACS trajectories | Python, Matplotlib |
 | [data-analysis-projects](https://github.com/vishnutg14/data-analysis-projects) | Portfolio of data analysis projects | Python, Jupyter |
 | [python_short_projects](https://github.com/vishnutg14/python_short_projects) | Short programs written while learning Python | Python |
